@@ -20,7 +20,7 @@
   Welcome to my GitHub page ! 
   </h2>
 
-I'm Kamel and I'm passionate about data analytics and e-commerce.
+I'm Kamel and I'm passionate about data analytics.
 You will find here all the projects I realized during my Data Analyst training as part of the OpenClassrooms program.
 I'm currently working on adding more personal projects to this page. 
 
