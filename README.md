@@ -34,6 +34,6 @@ I'm currently working on adding more personal projects to this page.
 
 To reach me :
 <ul>
-  <li> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> : https://www.linkedin.com/in/kamel-badar-4649b3195/</li>
+  <li> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> :https://www.linkedin.com/in/kamelbadar/</li>
   <li> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="20"/> : <a href="mailto:kamelbadar18@gmail.com">kamelbadar18@gmail.com</a> </li>
 </ul>
