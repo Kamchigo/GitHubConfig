@@ -21,8 +21,11 @@
   </h2>
 
 I'm Kamel and I'm passionate about data analytics.
+
 I enjoy applying my data skills to solving problems related to e-commerce, a field I studied at school during my master's degree.
+
 You will find here all the projects I realized during my Data Analyst training as part of the OpenClassrooms program.
+
 I'm currently working on adding more personal projects to this page. 
 
 <h2 align="center">
